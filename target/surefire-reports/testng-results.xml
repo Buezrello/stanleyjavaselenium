@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-02-06T15:52:53Z" name="TestAmazon" finished-at="2019-02-06T15:53:19Z" duration-ms="26026">
+    <groups>
+    </groups>
+    <test started-at="2019-02-06T15:52:53Z" name="Command line test" finished-at="2019-02-06T15:53:19Z" duration-ms="26026">
+      <class name="TestAmazon">
+        <test-method is-config="true" signature="setupSuite()[pri:0, instance:TestAmazon@323b36e0]" started-at="2019-02-06T15:52:50Z" name="setupSuite" finished-at="2019-02-06T15:52:53Z" duration-ms="3294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupSuite -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:TestAmazon@323b36e0]" started-at="2019-02-06T15:52:53Z" name="beforeClass" finished-at="2019-02-06T15:53:12Z" duration-ms="18568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="testBookWithLongestName()[pri:0, instance:TestAmazon@323b36e0]" started-at="2019-02-06T15:53:12Z" name="testBookWithLongestName" finished-at="2019-02-06T15:53:12Z" duration-ms="677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBookWithLongestName -->
+        <test-method signature="testBookWithLowestRating()[pri:0, instance:TestAmazon@323b36e0]" started-at="2019-02-06T15:53:12Z" name="testBookWithLowestRating" finished-at="2019-02-06T15:53:19Z" duration-ms="6720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBookWithLowestRating -->
+        <test-method signature="testBooksQuantity()[pri:0, instance:TestAmazon@323b36e0]" started-at="2019-02-06T15:53:19Z" name="testBooksQuantity" finished-at="2019-02-06T15:53:19Z" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBooksQuantity -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestAmazon@323b36e0]" started-at="2019-02-06T15:53:19Z" name="tearDown" finished-at="2019-02-06T15:53:20Z" duration-ms="727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestAmazon -->
+    </test> <!-- Command line test -->
+  </suite> <!-- TestAmazon -->
+</testng-results>
